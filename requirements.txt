@@ -1,0 +1,11 @@
+pandas
+numpy
+xgboost
+scikit-learn
+joblib
+s3fs
+fsspec
+boto3
+sagemaker
+sagemaker-training
+
